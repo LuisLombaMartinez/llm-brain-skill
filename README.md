@@ -6,6 +6,12 @@ You're walking and get an idea? Tell Claude on your phone *"save to my brain: ‚Ä
 
 The skill only runs when you say **"my brain"**, so talking about ideas or projects in other chats doesn't set it off.
 
+## Why "llm-brain"?
+
+I'm [Luis Lomba Mart√≠nez](https://github.com/LuisLombaMartinez), and I built this for myself. I kept getting ideas while walking, or making decisions in a chat with Claude on my phone, and then losing them. I wanted one place to drop everything and pick it up later from anywhere, including Claude Code.
+
+The name has two meanings. **LLM** is my initials, so it's my brain. It's also a brain written together with a **large language model**. My own brain lives in a private repo with the same name. This repo shares the method behind it, so you can grow your own brain: call it whatever you like, the skill works the same.
+
 ## What's in here
 
 ```
